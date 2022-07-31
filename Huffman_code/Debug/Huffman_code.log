@@ -1,0 +1,6 @@
+﻿  HuffmanAlgorithm.cpp
+C:\Users\win 10\source\repos\Huffman_code\Huffman_code\HuffmanAlgorithm.cpp(51,24): warning C4101: 'left': unreferenced local variable
+C:\Users\win 10\source\repos\Huffman_code\Huffman_code\HuffmanAlgorithm.cpp(52,24): warning C4101: 'right': unreferenced local variable
+  HuffmanTree.cpp
+  Generating Code...
+  Huffman_code.vcxproj -> C:\Users\win 10\source\repos\Huffman_code\Debug\Huffman_code.exe
